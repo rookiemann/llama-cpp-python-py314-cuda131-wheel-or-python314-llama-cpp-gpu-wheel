@@ -7,6 +7,8 @@ Built December 17, 2025 with:
 - Full CUDA graph support
 - Tested: ~85 tokens/second on Llama 3 8B Q4_K_M (RTX 3090)
 
+https://github.com/rookiemann/llama-cpp-python-py314-cuda131-wheel-or-python314-llama-cpp-gpu-wheel/releases/tag/v0.3.16-cuda13.1-py3.14
+
 ### Install
 ```bash
 pip install llama_cpp_python-0.3.16-cp314-cp314-win_amd64.whl
