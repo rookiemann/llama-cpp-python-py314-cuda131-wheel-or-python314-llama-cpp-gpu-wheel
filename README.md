@@ -1,5 +1,7 @@
 # llama-cpp-python GPU Wheel for Python 3.14 (CUDA 13.1)
 
+![License: MIT](https://img.shields.io/github/license/rookiemann/llama-cpp-python-py314-cuda131-wheel-or-python314-llama-cpp-gpu-wheel) ![Platform: Windows](https://img.shields.io/badge/Platform-Windows%20x64-blue) ![Python: 3.14](https://img.shields.io/badge/Python-3.14-green) ![CUDA: 13.1](https://img.shields.io/badge/CUDA-13.1-76B900)
+
 Fully working GPU-accelerated wheel for `llama-cpp-python==0.3.16` on **Python 3.14** (Windows amd64).
 
 Built December 17, 2025 with:
